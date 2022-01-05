@@ -1,8 +1,8 @@
 #!/bin/bash
 
 APIKEY=$(cat apikey)
-TELEGRAMBOT=$(cat telegramurl)
-TELEGRAMCHATID$(cat telegramchatid)
+TELEGRAMBOT=$(cat telegrambot)
+TELEGRAMCHATID=$(cat telegramchatid)
 
 for id in $(cat station_ids); 
 do 
