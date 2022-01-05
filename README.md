@@ -1,3 +1,3 @@
 # benzinpreis-monitor
 
-https://creativecommons.tankerkoenig.de/info
+https://creativecommons.tankerkoenig.de/
